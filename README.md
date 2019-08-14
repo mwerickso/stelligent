@@ -1,4 +1,4 @@
-# miniproject-ERICKSON-MATTHEW
+# Stelligent
 
 ## About
 This project is to showcase knowledge in a programming language (Python), 
