@@ -1,0 +1,4 @@
+*pycache*
+*pytest*
+.vscode/
+*Docker*

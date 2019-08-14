@@ -1,0 +1,3 @@
+Flask==0.12
+Flask-RESTful==0.3.5
+Flask-Jsonpify==1.5.0
